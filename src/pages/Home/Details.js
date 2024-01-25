@@ -178,10 +178,8 @@ const Details = () => {
     <React.Fragment>
       <Helmet>
         <title>
-          <title>
-            Android Aresenal - A categorized directory of libraries and tools
-            for Android
-          </title>
+          Android Aresenal - A categorized directory of libraries and tools for
+          Android
         </title>
         <meta name="description" content="Find your solution with us" />
       </Helmet>
