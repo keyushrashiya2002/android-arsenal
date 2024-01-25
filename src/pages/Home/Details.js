@@ -56,6 +56,7 @@ const Details = () => {
     if (homeData !== undefined || homeData?.length !== 0) {
       setIndex();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const setIndex = () => {

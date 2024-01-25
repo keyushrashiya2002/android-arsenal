@@ -126,6 +126,7 @@ const Home = () => {
     if (JSON.stringify(data) === "{}") {
       getHomeData();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // useEffect(() => {
