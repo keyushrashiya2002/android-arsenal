@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1feb4186.css",
+    "main.js": "/static/js/main.5108ed4a.js",
+    "static/js/27.c30feae2.chunk.js": "/static/js/27.c30feae2.chunk.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.1664a258a7e7714f6f8d.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/auth-one-bg.jpg": "/static/media/auth-one-bg.5443520267e1971ff62e.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/profile-bg.jpg": "/static/media/profile-bg.7c655a961eeb2e24dca3.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/error.png": "/static/media/error.28875651d29f6258025a.png",
+    "static/media/bg-pattern.png": "/static/media/bg-pattern.d84a545991260916b9c9.png",
+    "static/media/noData.png": "/static/media/noData.b6550a8632e0886a269c.png",
+    "static/media/faq-img.png": "/static/media/faq-img.6a410460b78df9036e9b.png",
+    "static/media/file.png": "/static/media/file.fc469f1817495c00e4e3.png",
+    "static/media/cover-pattern.png": "/static/media/cover-pattern.181df191d9b702006e4b.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.1feb4186.css",
+    "static/js/main.5108ed4a.js"
+  ]
+}
