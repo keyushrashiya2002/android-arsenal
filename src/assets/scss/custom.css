@@ -1,0 +1,151 @@
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+ins[data-ad-status="unfilled"] {
+  display: none !important;
+}
+.max-height-275 {
+  max-height: 275px;
+}
+
+table.custom-table tbody tr td {
+  padding-top: 7px !important;
+  padding-bottom: 7px !important;
+}
+
+table.custom-table tbody tr:last-child td {
+  border-bottom: none !important;
+}
+
+.start-8 {
+  left: 8px !important;
+}
+
+.h-150 {
+  height: 150px !important;
+}
+
+.h-19 {
+  height: 19px !important;
+}
+
+.hw-250 {
+  height: 250px !important;
+  width: 250px !important;
+}
+
+.hw-25 {
+  height: 25px !important;
+  width: 25px !important;
+}
+
+.hw-30 {
+  height: 30px !important;
+  width: 30px !important;
+}
+
+.hw-24 {
+  height: 24px !important;
+  width: 24px !important;
+  min-width: 24px !important;
+}
+
+.h-250 {
+  height: 250px !important;
+}
+
+.fs-20 {
+  font-size: 20px !important;
+}
+
+.fs-14 {
+  font-size: 14px !important;
+}
+
+.fs-11 {
+  font-size: 11px !important;
+}
+
+.fs-10 {
+  font-size: 10px !important;
+}
+
+.fs-8 {
+  font-size: 8px !important;
+}
+
+.object-fit-contain {
+  object-fit: contain !important;
+}
+
+.top-16 {
+  top: 16px !important;
+}
+
+.rounded-10 {
+  border-radius: 10px !important;
+}
+
+.lh-normal {
+  line-height: normal;
+}
+
+code {
+  margin-left: 5px !important;
+}
+
+.bg-muted {
+  background: #00000012;
+}
+
+.placeholderBox .card-header {
+  display: flex;
+  flex-direction: column;
+  align-items: self-start;
+}
+
+.placeholderBox .placeholderItem {
+  position: relative;
+  display: inline-block;
+}
+
+.placeholderBox .placeholderItem:before {
+  content: "";
+  width: 100%;
+  background: #b8b8b8;
+  height: 100%;
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  border-radius: 3px;
+  top: 0;
+  animation: placeholderBoxColor 2s infinite linear;
+}
+
+.placeholderBox .placeholderItem.placeholder-rounded:before {
+  border-radius: 50%;
+}
+
+.placeholderBox .placeholderItem.transform {
+  transform: scaleY(0.8);
+}
+
+@keyframes placeholderBoxColor {
+  0% {
+    background: #b8b8b8;
+  }
+
+  50% {
+    background: #e1e1e1;
+  }
+
+  100% {
+    background: #b8b8b8;
+  }
+}
+
+.placeholderBox .placeholderItem.card-title:before {
+  background: #8891b4;
+  animation: unset !important;
+}
